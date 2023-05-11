@@ -50,7 +50,7 @@ Compiling and running this code requires .NET 6.0 ([here](https://dotnet.microso
 
 ```
 dotnet build -c Release
-dotnet run -c Release --project ./isospeed-convolution-benchmarks/isospeed-convolution-benchmarks.csproj -- --filter '*'
+dotnet run -c Release --project ./isospeed-convolution-benchmarks/isospeed-convolution-benchmarks.csproj -- --filter "*"
 ```
 
 ### Gather the results
