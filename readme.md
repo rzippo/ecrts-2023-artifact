@@ -78,18 +78,18 @@ The table below shows the tikz files produced and the corresponding figures in t
 
 | Tikz file | Figure |
 | - | - |
-| IsoConvolutionHorizontalStaircaseBenchmarks-minp-iso | Figure 6a |
-| IsoConvolutionHorizontalStaircaseBenchmarks-maxp-iso | Figure 6b |
-| IsoConvolutionHorizontalStaircaseBenchmarks-best-iso | Figure 6c |
-| IsoConvolutionVerticalStaircaseBenchmarks-minp-iso | Figure 7a |
-| IsoConvolutionVerticalStaircaseBenchmarks-maxp-iso | Figure 7b |
-| IsoConvolutionVerticalStaircaseBenchmarks-best-iso | Figure 7c |
-| IsoConvolutionBalancedStaircaseBenchmarks-minp-iso | Figure 8a |
-| IsoConvolutionBalancedStaircaseBenchmarks-maxp-iso | Figure 8b |
-| IsoConvolutionBalancedStaircaseBenchmarks-best-iso | Figure 8c |
-| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-minp-iso | Figure 9a |
-| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-maxp-iso | Figure 9b |
-| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-best-iso | Figure 9c |
+| IsoConvolutionHorizontalStaircaseBenchmarks-minp-iso.tikz | Figure 6a |
+| IsoConvolutionHorizontalStaircaseBenchmarks-maxp-iso.tikz | Figure 6b |
+| IsoConvolutionHorizontalStaircaseBenchmarks-best-iso.tikz | Figure 6c |
+| IsoConvolutionVerticalStaircaseBenchmarks-minp-iso.tikz | Figure 7a |
+| IsoConvolutionVerticalStaircaseBenchmarks-maxp-iso.tikz | Figure 7b |
+| IsoConvolutionVerticalStaircaseBenchmarks-best-iso.tikz | Figure 7c |
+| IsoConvolutionBalancedStaircaseBenchmarks-minp-iso.tikz | Figure 8a |
+| IsoConvolutionBalancedStaircaseBenchmarks-maxp-iso.tikz | Figure 8b |
+| IsoConvolutionBalancedStaircaseBenchmarks-best-iso.tikz | Figure 8c |
+| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-minp-iso.tikz | Figure 9a |
+| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-maxp-iso.tikz | Figure 9b |
+| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-best-iso.tikz | Figure 9c |
 
 ## Expected runtime and tweaks
 
