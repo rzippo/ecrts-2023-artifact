@@ -11,7 +11,7 @@ This artifact is composed of
 * a parser program that makes TikZ figures from the results produced by the benchmarks
 
 The algorithmic implementation provided here is the same used to generate the results discussed in the paper.
-This will slightly differ from what we will soon publish on https://github.com/rzippo/nancy -- we found some useful tweaks in the last two months.
+This will slightly differ from what we will soon publish on https://github.com/rzippo/nancy - we found some useful tweaks in the last two months.
 
 ## Claims
 
@@ -74,6 +74,22 @@ dotnet run -c Release --project ./isospeed-bench-to-tikz/isospeed-bench-to-tikz.
 ```
 
 The program will leave the .tikz files produced in `BenchmarkDotNet.Artifacts/results`.
+The table below shows the tikz files produced and the corresponding figures in the paper.
+
+| Tikz file | Figure |
+| - | - |
+| IsoConvolutionHorizontalStaircaseBenchmarks-minp-iso | Figure 6a |
+| IsoConvolutionHorizontalStaircaseBenchmarks-maxp-iso | Figure 6b |
+| IsoConvolutionHorizontalStaircaseBenchmarks-best-iso | Figure 6c |
+| IsoConvolutionVerticalStaircaseBenchmarks-minp-iso | Figure 7a |
+| IsoConvolutionVerticalStaircaseBenchmarks-maxp-iso | Figure 7b |
+| IsoConvolutionVerticalStaircaseBenchmarks-best-iso | Figure 7c |
+| IsoConvolutionBalancedStaircaseBenchmarks-minp-iso | Figure 8a |
+| IsoConvolutionBalancedStaircaseBenchmarks-maxp-iso | Figure 8b |
+| IsoConvolutionBalancedStaircaseBenchmarks-best-iso | Figure 8c |
+| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-minp-iso | Figure 9a |
+| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-maxp-iso | Figure 9b |
+| IsoConvolutionHorizontalKTradeoffStaircaseBenchmarks-best-iso | Figure 9c |
 
 ## Expected runtime and tweaks
 
